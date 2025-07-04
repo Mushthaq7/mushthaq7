@@ -12,19 +12,7 @@ Welcome to my GitHub! I'm a passionate AI builder creating intelligent tools tha
 - 🧠 **LLMs & AI APIs:** OpenAI (GPT-4o), Claude, Whisper, DALL·E
 - 🗃️ **Data & Modeling:** Pandas, DuckDB, SQLModel, Pydantic
 - 🧪 **Agentic AI:** CrewAI, LangGraph, OpenAI Function Calling
-- 🛠️ **Dev Tools:** VS Code, GitHub, Linux, Docker, `.env` practices
-
----
-
-## 🌟 Featured Project
-
-### 🔍 [Insight Agent](https://github.com/mushthaq7/insight-agent)
-> An AI-powered business analyst that uses GPT-4o to analyze uploaded datasets, extract insights, and generate reports — built with Streamlit and agentic AI design patterns.
-
-Use cases:
-- Executive insight generation from sales data  
-- Agent-based task planning and data summarization  
-- Real-world AI application for consulting & strategy
+- 🛠️ **Dev Tools:** VS Code, GitHub, Docker, `.env` practices
 
 ---
 
